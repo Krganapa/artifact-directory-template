@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/Krganapa/artifact-directory-template.git",
+    "project-repository": "https://github.com/Krganapa/0527291751.git",
+    "dockerhub-repository": "jil1119/docker-mesa-geo:latest",
+    "project-website-url": "https://geoact.sdsc.edu/",
+    "project-website-code": "https://github.com/evprice/website_180b.git"
 }
