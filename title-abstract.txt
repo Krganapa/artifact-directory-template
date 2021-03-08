@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Geographically Assisted Agent-based Model for COVID-19 Transmission (GeoACT)
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+As schools attempt to reopen amid the COVID-19 pandemic, there is an increasing need to detect and quantify potentially risky activities in schools to help schools test out their individual reopening plans in order to prevent an outbreak. In this paper, we describe the development of a spatially explicit agent-based model to help detect risky activities and assess reopening plans for individual schools by incorporating elements such as behavioral factors, environmental factors, and effects from pharmaceutical and non-pharmaceutical interventions. Following this we describe the development of a gateway infrastructure powered by Apache Airavata to allow general-purpose users to run model simulations with user-defined parameters. Finally, we use the aforementioned model to estimate COVID-19 case counts and the effectiveness of proposed interventions over a two week period for a real school to demonstrate model usability. 
